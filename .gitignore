@@ -1,0 +1,10 @@
+# Ignore the virtual environment folder
+env/
+
+# Ignore the contacts.csv file
+contacts.csv
+# Ignore the mail.py file
+mail.py
+
+# Ignore the qr.py file
+qr.py
